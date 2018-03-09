@@ -1,0 +1,2 @@
+2018-03-09T17:35:26+00:00 DEBUG (7): Invalid Resource for Api Call: lists/468314e15c/webhooks : url : Invalid destination. Please try a different URL.
+2018-03-09T17:35:26+00:00 DEBUG (7): Your store could not be accessed by MailChimp's Api. Please confirm the URL: http://127.0.0.1/magento_1/mailchimp/webhook/index/wkey/365ed7d81d5504a2/ is accessible externally to allow the webhook creation.
